@@ -1,5 +1,7 @@
 <!-- NEOK1RA — CRAFTED IN THE SHADOWS -->
 
+<img src="https://raw.githubusercontent.com/ne0k1r4/ne0k1r4/main/neok1ra_banner.gif" width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:000000&height=200&section=header&text=NEOK1RA&fontSize=70&fontColor=ff0000&animation=fadeIn&fontAlignY=55&desc=RED%20TEAMER%20%2F%2F%20SHADOW%20OPERATOR%20%2F%2F%20CTF%20PLAYER&descAlignY=78&descSize=16&descColor=888888" width="100%" />
 
 <div align="center">
