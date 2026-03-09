@@ -61,74 +61,6 @@
 
 <br/>
 
-## 〔 ARSENAL 〕
-
-<div align="center">
-
-🔍 &nbsp;**R E C O N**&nbsp; 🔍
-
-| | Tool | Purpose |
-|:-:|:---|:---|
-| 👁️ | [ghostrecon](https://github.com/ne0k1r4/ghostrecon) | Silent passive reconnaissance |
-| 🌑 | [shadscan](https://github.com/ne0k1r4/shadscan) | Network scanner — beyond nmap |
-| 🎭 | [deceive](https://github.com/ne0k1r4/deceive) | OSINT & social engineering |
-
-<br/>
-
-💀 &nbsp;**E X P L O I T A T I O N**&nbsp; 💀
-
-| | Tool | Purpose |
-|:-:|:---|:---|
-| ⚡ | [phantom-strike](https://github.com/ne0k1r4/phantom-strike) | Full exploitation framework |
-| 💥 | [buffer\_overflow\_toolkit\_v2](https://github.com/ne0k1r4/buffer_overflow_toolkit_v2) | BOF exploit development |
-| ⚔️ | [lightsec-xploit](https://github.com/ne0k1r4/lightsec-xploit) | Modular exploit framework |
-
-<br/>
-
-👻 &nbsp;**P O S T - E X P L O I T**&nbsp; 👻
-
-| | Tool | Purpose |
-|:-:|:---|:---|
-| 🌒 | [shadow-walker](https://github.com/ne0k1r4/shadow-walker) | Post-exploitation & persistence |
-| ⬆️ | [priv\_esc\_kit\_advanced](https://github.com/ne0k1r4/priv_esc_kit_advanced) | Privilege escalation toolkit |
-| 🔀 | [network\_pivot\_tool](https://github.com/ne0k1r4/network_pivot_tool) | Network pivoting & tunneling |
-
-<br/>
-
-🕸️ &nbsp;**W E B**&nbsp; 🕸️
-
-| | Tool | Purpose |
-|:-:|:---|:---|
-| 🔬 | [web\_app\_scanner](https://github.com/ne0k1r4/web_app_scanner) | Web vulnerability scanner |
-| 🕷️ | [bloodspider](https://github.com/ne0k1r4/bloodspider) | Web crawler & data harvester |
-
-<br/>
-
-🛠️ &nbsp;**U T I L I T I E S**&nbsp; 🛠️
-
-| | Tool | Purpose |
-|:-:|:---|:---|
-| 🔐 | [voxcrypt](https://github.com/ne0k1r4/voxcrypt) | Encryption & obfuscation |
-| 📊 | [payloadviz](https://github.com/ne0k1r4/payloadviz) | Payload visualizer & analyzer |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-<img src="https://media1.tenor.com/m/GiIOfVRIfTgAAAAd/death-note-light-yagami.gif" width="55%" />
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## 〔 STACK 〕
 
 <div align="center">
@@ -151,26 +83,6 @@
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torproject&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 〔 STATS 〕
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ne0k1r4&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&rank_icon=github&hide_border=false" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne0k1r4&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d&hide_border=false" width="38%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ne0k1r4&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=8b949e&dates=555555&border=30363d" width="55%" />
 
 </div>
 
