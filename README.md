@@ -1,108 +1,176 @@
 <div align="center">
 
-```
-███╗   ██╗███████╗ ██████╗ ██╗  ██╗ ██╗██████╗  █████╗
-████╗  ██║██╔════╝██╔═══██╗██║ ██╔╝███║██╔══██╗██╔══██╗
-██╔██╗ ██║█████╗  ██║   ██║█████╔╝ ╚██║██████╔╝███████║
-██║╚██╗██║██╔══╝  ██║   ██║██╔═██╗  ██║██╔══██╗██╔══██║
-██║ ╚████║███████╗╚██████╔╝██║  ██╗ ██║██║  ██║██║  ██║
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+# ⚡ Neok1ra
 
-**`red teamer · tool builder · the hand that writes the exploit`**
+### Red Team Operator • Security Researcher • Linux Enthusiast • Builder
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ne0k1r4.ne0k1r4&style=for-the-badge&color=8b0000&labelColor=1a0000)](https://github.com/ne0k1r4)
-[![GitHub](https://img.shields.io/github/followers/ne0k1r4?style=for-the-badge&color=8b0000&labelColor=1a0000&logo=github&label=followers)](https://github.com/ne0k1r4?tab=followers)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Developer;Red+Team+Tool+Creator;Linux+%26+Open+Source+Enthusiast;Building+Security+Projects+One+Commit+At+A+Time" />
 
 </div>
 
 ---
 
-## `// IDENTITY`
+## 👨‍💻 About Me
 
-```
-┌──────────────────────────────────────────────┐
-│  SUBJECT   : Light                           │
-│  ALIAS     : Neok1ra / Kira                  │
-│  BORN      : 23 August 2007                  │
-│  ORIGIN    : Germany                         │
-│  ALIGNMENT : Justice                         │
-│  STATUS    : Anti-Cheat Research             │
-│  SYSTEM    : Arch Linux + Hyprland           │
-│  SHELL     : zsh                             │
-└──────────────────────────────────────────────┘
-```
+I'm **Light (Neok1ra)**, a cybersecurity enthusiast focused on:
 
-> *"I am justice. I protect the innocent and those who fear evil."*
+- 🔴 Red Team Operations
+- 🛡️ Security Research
+- 🐧 Linux Systems
+- 🌐 Network Security
+- ⚙️ Offensive Security Tooling
+- 🤖 AI & Security Automation
+
+I enjoy building tools that help security professionals understand, test, and strengthen systems.
+
+My work revolves around practical cybersecurity engineering, automation, and open-source development.
 
 ---
 
-## `// ARSENAL`
+## 🚀 Current Focus
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-2d0000?style=for-the-badge&logo=c&logoColor=ff6666)
-![Rust](https://img.shields.io/badge/Rust-3d0000?style=for-the-badge&logo=rust&logoColor=ff4444)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a00?style=for-the-badge&logo=javascript&logoColor=ffdd00)
-
-**Proficiency**
-
+```text
+[+] Developing Advanced Security Tools
+[+] Learning Offensive Security Techniques
+[+] Building AI-Powered Security Solutions
+[+] Expanding Linux & Networking Knowledge
+[+] Contributing to Open Source
 ```
-Python     ████████████████████  100%
-Bash       ███████████████████░   95%
-C / C++    ████████████████░░░░   80%
-Rust       ██████████████░░░░░░   70%
-JS         █████████████████░░░   88%
-```
-
-**Environment**
-
-![Arch](https://img.shields.io/badge/Arch_Linux-8B0000?style=for-the-badge&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-2d0000?style=for-the-badge&logo=linux&logoColor=ff6666)
-![Neovim](https://img.shields.io/badge/Neovim-003300?style=for-the-badge&logo=neovim&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-001a33?style=for-the-badge&logo=docker&logoColor=4499ff)
-![Tor](https://img.shields.io/badge/Tor-1a0033?style=for-the-badge&logo=torproject&logoColor=aa66ff)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
-## `// PROJECTS`
+## 🧰 Tech Stack
 
-| Name | Lang | Description |
-|------|------|-------------|
-| [**lightscan-phantom**](https://github.com/ne0k1r4/lightscan-phantom) | Python | Async network recon & attack framework — port scan, DNS enum, CVE checker, brute force, OAuth audit. Zero hard deps. |
-| [**grimoire**](https://github.com/ne0k1r4/grimoire) | Python | Spell repository — tools, scripts, and techniques catalogued in the dark. |
-| [**wraith-net**](https://github.com/ne0k1r4/wraith-net) | Python | Network wraith — silent, unseen traffic manipulation. |
-| [**kira-installer**](https://github.com/ne0k1r4/kira-installer) | Shell | Automated system bootstrap. My environment, ready in seconds. |
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
 
 ---
 
-## `// CONTACT`
+### Security & Infrastructure
 
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+
+---
+
+## 🔥 Featured Projects
+
+### ⚔️ LightSec-Xploit
+
+Modular exploit-development framework built for educational and authorized security testing environments.
+
+**Highlights**
+
+- Modular architecture
+- Plugin support
+- Recon workflows
+- Payload management
+- Security research focused
+
+---
+
+### 🌐 NetScan-X
+
+Advanced network reconnaissance toolkit.
+
+Features:
+
+- Host discovery
+- Service enumeration
+- Port scanning
+- Network mapping
+- Reporting
+
+---
+
+### 👻 Phantom Strike
+
+Security assessment framework designed for controlled environments.
+
+Features:
+
+- Enumeration modules
+- Workflow automation
+- Reporting capabilities
+- Extensible architecture
+
+---
+
+### 🕶️ Shadow Walker
+
+Red-team inspired research toolkit.
+
+Focused on:
+
+- Reconnaissance
+- Visibility analysis
+- Security testing workflows
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ne0k1r4&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne0k1r4&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Development Philosophy
+
+```text
+Think.
+Build.
+Break.
+Learn.
+Improve.
+Repeat.
 ```
-[ SYSTEM ] Establishing secure connection...
-[ PROXY  ] Routing through Tor...
-[  OK    ] Connection established.
 
-pgp   →  9F96D49A34783B60
-mail  →  neok1ra@proton.me
-git   →  github.com/ne0k1r4
-```
+Security is not about attacking systems.
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B0000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:neok1ra@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ne0k1r4)
-[![PGP](https://img.shields.io/badge/PGP_Key-1a0033?style=for-the-badge&logo=gnuprivacyguard&logoColor=aa66ff)](https://keys.openpgp.org)
+Security is about understanding systems deeply enough to protect them.
 
-> *"Only I can do it. I'll solve the equation."*
+---
+
+## 🎯 2026 Goals
+
+- Launch industry-grade security projects
+- Improve low-level programming skills
+- Expand AI + Cybersecurity research
+- Publish more open-source tools
+- Contribute to security communities
+
+---
+
+## 🌌 Beyond Technology
+
+When I'm not coding, you'll probably find me:
+
+- 📚 Reading
+- 🌠 Exploring space-related topics
+- 🐧 Customizing Linux systems
+- 🎮 Gaming
+- ✍️ Working on creative projects
 
 ---
 
 <div align="center">
 
-*「 This world is rotten, and those who are making it rot deserve to die. 」*
+### "Knowledge without action is wasted potential."
 
-`◈ Neok1ra · In the shadows. Always watching. ◈`
+⭐ If you find my projects useful, consider starring them.
 
 </div>
