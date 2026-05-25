@@ -1,138 +1,122 @@
-<div align="center">
+# /projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=NEOK1RA&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+### ⚡ LightSec-Xploit
+Modular security research framework designed for extensible testing and experimentation.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Red+Team+Developer;Linux+Enthusiast;Open+Source+Builder;Creating+Tools+That+Matter"/>
-
-</div>
-
----
-
-# /about
-
-```yaml
-alias: Neok1ra
-name: Light
-
-focus:
-  - Cybersecurity
-  - Red Team Research
-  - Linux
-  - AI Security
-  - Tool Development
-
-currently_building:
-  - LightSec-Xploit
-  - NetScan-X
-  - Security Research Projects
-
-philosophy:
-  "Learn deeply. Build responsibly."
-```
+**Focus**
+- Modular architecture
+- Research workflows
+- Plugin ecosystem
+- Python development
 
 ---
 
-# /mission
+### 🌐 NetScan-X
 
-I build tools, explore systems, and study how technology works beneath the surface.
+Network intelligence and reconnaissance platform.
 
-Most of my projects focus on:
-
-- Security Research
-- Network Analysis
-- Linux Infrastructure
-- Automation
-- AI-assisted Security Workflows
-
----
-
-# /tech-stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,c,cpp,typescript,javascript,bash,linux,docker,git,github,vscode"/>
-
-</div>
-
----
-
-# /featured-projects
-
-## ⚡ LightSec-Xploit
-
-Modular security research framework.
-
-- Plugin architecture
-- Extensible modules
-- Recon workflows
-- Research focused
-
----
-
-## 🌐 NetScan-X
-
-Advanced network intelligence toolkit.
-
-- Host discovery
-- Enumeration
-- Mapping
-- Analysis
-
----
-
-## 👻 Phantom Strike
-
-Security assessment platform.
-
-- Recon
-- Automation
+**Capabilities**
+- Asset discovery
+- Service enumeration
+- Infrastructure mapping
 - Reporting
 
 ---
 
-## 🕶 Shadow Walker
+### 👻 Phantom Strike
 
-Visibility and reconnaissance toolkit.
+Security assessment toolkit built for controlled environments.
 
-- Asset discovery
-- Infrastructure mapping
-- Security analysis
-
----
-
-# /github
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ne0k1r4&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne0k1r4&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+**Focus**
+- Automation
+- Reconnaissance
+- Security validation
 
 ---
 
-<div align="center">
+### 🕶 Shadow Walker
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ne0k1r4&theme=transparent&hide_border=true"/>
+Infrastructure visibility and asset analysis framework.
 
-</div>
-
----
-
-# /activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ne0k1r4&theme=github-compact&hide_border=true"/>
+**Capabilities**
+- Discovery
+- Enumeration
+- Analysis
+- Reporting
 
 ---
 
-# /achievements
+### 📡 ShadScan
 
-<div align="center">
+Advanced scanning and enumeration toolkit.
 
-<img src="https://github-profile-trophy.vercel.app/?username=ne0k1r4&theme=algolia&no-frame=true&margin-w=15"/>
+---
 
-</div>
+### 🎯 Deceive
+
+Research-focused simulation and deception framework.
+
+---
+
+### 🔥 PayloadViz
+
+Payload visualization and workflow analysis platform.
+
+---
+
+# /research
+
+Current areas of exploration:
+
+```yaml
+security:
+  - Offensive Security
+  - Adversary Simulation
+  - Network Security
+  - Detection Engineering
+
+systems:
+  - Linux Internals
+  - Containers
+  - Virtualization
+  - Infrastructure Automation
+
+ai:
+  - AI Security
+  - LLM Workflows
+  - Security Automation
+```
+
+---
+
+# /roadmap
+
+```text
+[✓] Build Open Source Security Projects
+[✓] Create Security Research Portfolio
+[✓] Develop Modular Frameworks
+
+[ ] Publish Technical Writeups
+[ ] Launch Industry-Grade Tooling
+[ ] Expand AI Security Research
+[ ] Contribute To Major Open Source Projects
+[ ] Build Security Research Lab
+```
+
+---
+
+# /currently-working-on
+
+```bash
+$ status
+
+Building          : Security Tools
+Learning          : Advanced Security Concepts
+Researching       : AI + Cybersecurity
+Operating System  : Arch Linux
+Editor            : VS Code / Neovim
+Mission           : Keep Building
+```
 
 ---
 
@@ -145,23 +129,19 @@ technology:
   - Open Source
   - Artificial Intelligence
 
-personal:
-  - Books
+creative:
+  - Writing
+  - Design
+  - Building Projects
+
+science:
   - Space
-  - Science
-  - Creative Writing
+  - Astronomy
+  - Emerging Technology
 ```
 
 ---
 
 # /quote
 
-> Security begins with understanding.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
-
-</div>
+> Build things that outlive the tutorial.
