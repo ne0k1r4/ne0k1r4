@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=ne0k1r4&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=c9a0dc&text_color=7a6b8a&text_bold=true"
+          options: "username=ne0k1r4&layout=compact&hide_border=true&langs_count=5&theme=transparent&title_color=c9a0dc&text_color=7a6b8a&text_bold=true"
           path: img/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

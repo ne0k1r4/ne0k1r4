@@ -36,17 +36,17 @@
       <img src="./img/mid_archive.png" width="400" />
       <br/><br/>
       <!-- BLOG_RSS_START -->
-      - 🦋 [***How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It***](https://ctf5.vercel.app/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/)
-      - 🦋 [***DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup***](https://ctf5.vercel.app/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/)
-      - 🦋 [***DawgCTF 2026 - Locksmith - OSINT Writeup***](https://ctf5.vercel.app/posts/142/dawgctf-2026-locksmith-osint-writeup/)
-      - 🦋 [***DawgCTF 2026 - Computer Repair III - OSINT Writeup***](https://ctf5.vercel.app/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/)
-      - 🦋 [***DawgCTF 2026 - owo? - OSINT Writeup***](https://ctf5.vercel.app/posts/143/dawgctf-2026-owo-osint-writeup/)
-      - 🦋 [***DawgCTF 2026 - The Lookout's Legend - OSINT Writeup***](https://ctf5.vercel.app/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/)
-      - 🦋 [***DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup***](https://ctf5.vercel.app/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/)
-      - 🦋 [***DawgCTF 2026 - I Hate Physics! - Cryptography Writeup***](https://ctf5.vercel.app/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/)
-      - 🦋 [***DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup***](https://ctf5.vercel.app/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/)
-      - 🦋 [***TexSAW 2026 - You Snoze You Loze - OSINT Writeup***](https://ctf5.vercel.app/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/)
-      <!-- BLOG_RSS_END -->
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/142/dawgctf-2026-locksmith-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Locksmith - OSINT Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Computer Repair III - OSINT Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/143/dawgctf-2026-owo-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - owo? - OSINT Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - The Lookout's Legend - OSINT Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - I Hate Physics! - Cryptography Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup</a></p>
+<p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">TexSAW 2026 - You Snoze You Loze - OSINT Writeup</a></p>
+<!-- BLOG_RSS_END -->
     </td>
     <td width="40%" align="right" valign="top">
       <img src="./img/top-langs.svg" width="280" />

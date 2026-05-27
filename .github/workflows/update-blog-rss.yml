@@ -42,7 +42,7 @@ jobs:
               lines = [START_TAG]
               for title, link in items:
                   clean_title = title.replace("***", "").strip()
-                  lines.append(f"- {ICON} [***{clean_title}***]({link})")
+                  lines.append(f'<p style="margin: 5px 0;">{ICON} &nbsp;<a href="{link}" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">{clean_title}</a></p>')
               lines.append(END_TAG)
               return "\n".join(lines)
 
