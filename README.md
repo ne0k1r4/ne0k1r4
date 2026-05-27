@@ -65,19 +65,19 @@
         </p>
         <table width="100%" border="0" cellpadding="2" cellspacing="0" style="color: #7a6b8a; font-size: 13px;">
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=sU14VwF9g-E" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Renai Circulation (Lofi Edit)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/1P6M265Fp1L8C3V26Vv89m" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Renai Circulation</i></a></td>
             <td align="right">3:14</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=F3S0p5ZcK5w" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Wandering Witch Elaina Theme (Chillhop)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/293p1N5eZJ9zWJ21r8N97v" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Wandering Witch Elaina Theme</i></a></td>
             <td align="right">2:45</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=h62p-D16Uv8" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Cyber Lofi)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/5LqG9qS2Vb9N97H6Z3v89m" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Elfen Lied OP)</i></a></td>
             <td align="right">3:08</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=hP4kG5oH0m8" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion Lofi)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/0eZ0Fp1L8C3V26Vv89m" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion ED)</i></a></td>
             <td align="right">3:52</td>
           </tr>
         </table>
