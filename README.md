@@ -30,12 +30,9 @@
 <hr/>
 <br/>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="./img/mid_archive.png" width="400" />
-      <br/><br/>
-      <!-- BLOG_RSS_START -->
+<img src="./img/mid_archive.png" width="488" />
+<br/><br/>
+<!-- BLOG_RSS_START -->
 <p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It</a></p>
 <p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup</a></p>
 <p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/142/dawgctf-2026-locksmith-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Locksmith - OSINT Writeup</a></p>
@@ -47,33 +44,6 @@
 <p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup</a></p>
 <p style="margin: 5px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">TexSAW 2026 - You Snoze You Loze - OSINT Writeup</a></p>
 <!-- BLOG_RSS_END -->
-    <td width="40%" valign="top">
-      <div style="border: 2px solid #2d1b4e; border-radius: 12px; padding: 15px; background: #0d0d1a;">
-        <p align="center" style="font-family: 'Caveat', cursive; font-size: 22px; color: #c9a0dc; margin-top: 0; margin-bottom: 10px;">
-          <b>🌸 Class: Security Mage 🌸</b>
-        </p>
-        <table width="100%" border="0" cellpadding="4" cellspacing="0" style="color: #7a6b8a; font-size: 14px;">
-          <tr>
-            <td>🐍 <b>Python</b></td>
-            <td align="right">💜 💜 💜 💜 💜</td>
-          </tr>
-          <tr>
-            <td>🐚 <b>Bash</b></td>
-            <td align="right">💜 💜 💜 💜 🖤</td>
-          </tr>
-          <tr>
-            <td>⚡ <b>JS / TS</b></td>
-            <td align="right">💜 💜 💜 🖤 🖤</td>
-          </tr>
-          <tr>
-            <td>⚙️ <b>C Language</b></td>
-            <td align="right">💜 💜 💜 🖤 🖤</td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <br/>
 <hr/>
