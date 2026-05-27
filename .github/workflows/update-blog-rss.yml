@@ -21,7 +21,78 @@ jobs:
           python-version: "3.12"
 
       - name: Update blog posts in README
-        run: python update_posts.py
+        shell: python
+        run: |
+          import re
+          import urllib.request
+
+          HTML_URL = "https://ctf5.vercel.app/"
+          README = "README.md"
+          MAX_POSTS = 10
+          ICON = "🦋"
+          START_TAG = "<!-- BLOG_RSS_START -->"
+          END_TAG = "<!-- BLOG_RSS_END -->"
+
+          def fetch_url(url: str) -> str:
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+              with urllib.request.urlopen(req, timeout=15) as resp:
+                  return resp.read().decode("utf-8")
+
+          def build_block(items: list) -> str:
+              lines = [START_TAG]
+              for title, link in items:
+                  clean_title = title.replace("***", "").strip()
+                  lines.append(f"- {ICON} [***{clean_title}***]({link})")
+              lines.append(END_TAG)
+              return "\n".join(lines)
+
+          def update_readme(new_block: str) -> None:
+              with open(README, "r", encoding="utf-8") as fh:
+                  content = fh.read()
+              pattern = re.compile(
+                  rf"{re.escape(START_TAG)}.*?{re.escape(END_TAG)}",
+                  re.DOTALL,
+              )
+              if pattern.search(content):
+                  updated = pattern.sub(new_block, content)
+              else:
+                  raise RuntimeError(f"Markers not found in {README}.")
+              with open(README, "w", encoding="utf-8") as fh:
+                  fh.write(updated)
+
+          try:
+              # 1. Fetch homepage
+              html = fetch_url(HTML_URL)
+              js_match = re.search(r'src="(/assets/index-[^"]+\.js)"', html)
+              if not js_match:
+                  raise RuntimeError("Could not find index.js asset.")
+              js_url = "https://ctf5.vercel.app" + js_match.group(1)
+
+              # 2. Fetch JS bundle
+              js_content = fetch_url(js_url)
+
+              # 3. Parse posts
+              pattern = r'\{"title"\s*:\s*"([^"]+)"\s*,\s*"link"\s*:\s*"([^"]+)"'
+              matches = re.findall(pattern, js_content)
+
+              posts = []
+              for title, link in matches:
+                  if link.startswith("/"):
+                      ctf5_link = "https://ctf5.vercel.app" + link
+                  else:
+                      ctf5_link = link.replace("https://blog.light.my.id", "https://ctf5.vercel.app")
+                  posts.append((title, ctf5_link))
+
+              if not posts:
+                  raise RuntimeError("No posts found.")
+
+              # 4. Build and write
+              block = build_block(posts[:MAX_POSTS])
+              update_readme(block)
+              print("Updated README.md successfully.")
+          except Exception as e:
+              print(f"Error updating posts: {e}")
+              exit(1)
 
       - name: Commit changes
         run: |
