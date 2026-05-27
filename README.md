@@ -95,19 +95,19 @@
         </p>
         <table width="100%" border="0" cellpadding="2" cellspacing="0" style="color: #7a6b8a; font-size: 13px;">
           <tr>
-            <td>🎧 <i>Renai Circulation (Lofi Edit)</i></td>
+            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=sU14VwF9g-E" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Renai Circulation (Lofi Edit)</i></a></td>
             <td align="right">3:14</td>
           </tr>
           <tr>
-            <td>🎧 <i>Wandering Witch Elaina Theme (Chillhop)</i></td>
+            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=F3S0p5ZcK5w" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Wandering Witch Elaina Theme (Chillhop)</i></a></td>
             <td align="right">2:45</td>
           </tr>
           <tr>
-            <td>🎧 <i>Lilium (Cyber Lofi)</i></td>
+            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=h62p-D16Uv8" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Cyber Lofi)</i></a></td>
             <td align="right">3:08</td>
           </tr>
           <tr>
-            <td>🎧 <i>Fly Me to the Moon (Evangelion Lofi)</i></td>
+            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=hP4kG5oH0m8" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion Lofi)</i></a></td>
             <td align="right">3:52</td>
           </tr>
         </table>
