@@ -86,8 +86,32 @@
       <br/><br/>
       <p align="left">
         <i>“People with evil intent can do evil things without lying.<br/>And not all liars are evil.”</i><br/>
-        — <b>Elaina</b> &middot; <a href="mailto:neok1ra@proton.me">neok1ra@proton.me</a>
+        — <b>Elaina</b>
       </p>
+      <br/>
+      <div style="border: 2px solid #2d1b4e; border-radius: 12px; padding: 12px; background: #0d0d1a; max-width: 440px;">
+        <p style="font-family: 'Caveat', cursive; font-size: 20px; color: #c9a0dc; margin: 0 0 10px 0;">
+          <b>🎵 3AM Coding Soundtrack</b>
+        </p>
+        <table width="100%" border="0" cellpadding="2" cellspacing="0" style="color: #7a6b8a; font-size: 13px;">
+          <tr>
+            <td>🎧 <i>Renai Circulation (Lofi Edit)</i></td>
+            <td align="right">3:14</td>
+          </tr>
+          <tr>
+            <td>🎧 <i>Wandering Witch Elaina Theme (Chillhop)</i></td>
+            <td align="right">2:45</td>
+          </tr>
+          <tr>
+            <td>🎧 <i>Lilium (Cyber Lofi)</i></td>
+            <td align="right">3:08</td>
+          </tr>
+          <tr>
+            <td>🎧 <i>Fly Me to the Moon (Evangelion Lofi)</i></td>
+            <td align="right">3:52</td>
+          </tr>
+        </table>
+      </div>
     </td>
     <td width="40%" align="right" valign="top">
       <img src="./img/mid_profile.png" width="260" style="border-radius: 12px; border: 2px solid #2d1b4e;" />
