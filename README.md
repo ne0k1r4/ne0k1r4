@@ -65,19 +65,19 @@
         </p>
         <table width="100%" border="0" cellpadding="2" cellspacing="0" style="color: #7a6b8a; font-size: 13px;">
           <tr>
-            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/1P6M265Fp1L8C3V26Vv89m" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Renai Circulation</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/4jV2Y5lT6YwD0d5O9lP7P3" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Renai Circulation</i></a></td>
             <td align="right">3:14</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/293p1N5eZJ9zWJ21r8N97v" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Wandering Witch Elaina Theme</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/12o5VwU0iN954P587e9vjO" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Wandering Witch Elaina Theme</i></a></td>
             <td align="right">2:45</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/5LqG9qS2Vb9N97H6Z3v89m" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Elfen Lied OP)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/4XWfL7G7l2L1s1t3wU1v2E" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Elfen Lied OP)</i></a></td>
             <td align="right">3:08</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/0eZ0Fp1L8C3V26Vv89m" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion ED)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/62u45Cq1YjHUIBr4Y2o1sP" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion ED)</i></a></td>
             <td align="right">3:52</td>
           </tr>
         </table>
