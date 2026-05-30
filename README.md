@@ -73,11 +73,11 @@
             <td align="right">2:45</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/35nri1SqPisprhxiB5lcJ7" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Elfen Lied OP)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/4hTU2IWMbGpvYp0Rpdpw1j" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Elfen Lied OP)</i></a></td>
             <td align="right">3:08</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion ED)</i></a></td>
+            <td>🎧 &nbsp;<a href="https://open.spotify.com/track/56dvEv8PIWFuc5vJQLPM0L" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion ED)</i></a></td>
             <td align="right">3:52</td>
           </tr>
         </table>
