@@ -16,7 +16,6 @@
       <p>🌸 &nbsp; <b>alias</b> &middot; Light &middot; ne0k1r4 &middot; Kira</p>
       <p>🗺️ &nbsp; <b>location</b> &middot; India</p>
       <p>💻 &nbsp; <b>craft</b> &middot; Security Researcher &middot; CTF Player</p>
-      <p>🎓 &nbsp; <b>academic</b> &middot; B.Tech (2nd year)</p>
       <p>❄️ &nbsp; <b>environment</b> &middot; Arch Linux + Hyprland</p>
       <p>☕ &nbsp; <b>routine</b> &middot; studying at 3 AM with lofi beats & tea</p>
     </td>
