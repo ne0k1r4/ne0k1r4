@@ -95,7 +95,7 @@
 <div align="center">
   <p>
     <a href="#"><img src="https://img.shields.io/badge/%23-2d1b4e?style=for-the-badge"/></a> 
-    <a href="https://5ujal.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2d1b4e?style=for-the-badge&logoColor=c9a0dc"/></a> 
+    <a href="http://sujalinfo.in/"><img src="https://img.shields.io/badge/WEBSITE-2d1b4e?style=for-the-badge&logoColor=c9a0dc"/></a> 
     <a href="mailto:neok1ra@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-2d1b4e?style=for-the-badge&logo=protonmail&logoColor=c9a0dc"/></a> 
     <a href="https://github.com/ne0k1r4"><img src="https://img.shields.io/badge/GITHUB-2d1b4e?style=for-the-badge&logo=github&logoColor=c9a0dc"/></a> 
     <a href="#"><img src="https://img.shields.io/badge/%23-2d1b4e?style=for-the-badge"/></a>
