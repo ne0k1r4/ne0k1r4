@@ -64,19 +64,19 @@
         </p>
         <table width="100%" border="0" cellpadding="2" cellspacing="0" style="color: #7a6b8a; font-size: 13px;">
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=Lup3l0h_4Cg" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Renai Circulation</i></a></td>
+            <td>🎧 &nbsp;<i>Renai Circulation</i></td>
             <td align="right">3:14</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=3s0F4H4J3xI" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Wandering Witch Elaina Theme</i></a></td>
+            <td>🎧 &nbsp;<i>Wandering Witch Elaina Theme</i></td>
             <td align="right">2:45</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=4hTU2IWMbGp" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Lilium (Elfen Lied OP)</i></a></td>
+            <td>🎧 &nbsp;<i>Lilium (Elfen Lied OP)</i></td>
             <td align="right">3:08</td>
           </tr>
           <tr>
-            <td>🎧 &nbsp;<a href="https://www.youtube.com/watch?v=62u45Cq1YjH" style="text-decoration: none; color: #7a6b8a;" target="_blank"><i>Fly Me to the Moon (Evangelion ED)</i></a></td>
+            <td>🎧 &nbsp;<i>Fly Me to the Moon (Evangelion ED)</i></td>
             <td align="right">3:52</td>
           </tr>
         </table>
