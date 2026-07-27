@@ -14,7 +14,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="58%" valign="top" style="padding-right: 15px;">
-      <img src="./img/top_about.png" width="380" style="border-radius: 12px; border: 1px solid #2d1b4e;" />
+      <img src="./img/top_about.png" width="380" />
       <br/><br/>
       <div style="border: 2px solid #2d1b4e; border-radius: 14px; padding: 18px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.35);">
         <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">🌸 &nbsp; <b>alias</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">Light</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">ne0k1r4</span> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">Kira</span></p>
@@ -70,7 +70,7 @@
 
 <!-- ARCHIVE & WRITEUPS -->
 <div align="left">
-  <img src="./img/mid_archive.png" width="480" style="border-radius: 12px; border: 1px solid #2d1b4e;" />
+  <img src="./img/mid_archive.png" width="480" />
 </div>
 <br/>
 
@@ -97,7 +97,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="58%" valign="top" style="padding-right: 15px;">
-      <img src="./img/mid_banner.png" width="420" style="border-radius: 12px; border: 1px solid #2d1b4e;" />
+      <img src="./img/mid_banner.png" width="420" />
       <br/><br/>
       <div style="border: 2px solid #2d1b4e; border-radius: 14px; padding: 16px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.35);">
         <p style="margin: 0; color: #c9a0dc; font-style: italic; font-size: 14px; line-height: 1.6;">
@@ -142,5 +142,5 @@
     <a href="#"><img src="https://img.shields.io/badge/%23-2d1b4e?style=for-the-badge"/></a>
   </p>
   <br/>
-  <img src="./img/bottom_banner.png" width="100%" style="border-radius: 12px; border: 1px solid #2d1b4e;" />
+  <img src="./img/bottom_banner.png" width="100%" />
 </div>
