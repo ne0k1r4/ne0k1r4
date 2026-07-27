@@ -56,6 +56,24 @@
 <hr/>
 <br/>
 
+<!-- ANIMATED LIVE GITHUB STATS -->
+<div align="center">
+  <p style="font-family: 'Caveat', cursive; font-size: 22px; color: #c9a0dc; margin-bottom: 12px;">
+    <b>📊 GitHub Activity & Live Stats</b>
+  </p>
+  <marquee behavior="scroll" direction="left" scrollamount="4">
+    <img src="https://github-readme-stats.vercel.app/api?username=ne0k1r4&show_icons=true&title_color=c9a0dc&text_color=7a6b8a&bg_color=0d0d1a&border_color=2d1b4e&icon_color=c9a0dc&hide_border=false" height="165" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ne0k1r4&theme=dark&background=0D0D1A&border=2D1B4E&stroke=C9A0DC&ring=C9A0DC&fire=C9A0DC&currStreakNum=C9A0DC&sideNums=C9A0DC&currStreakLabel=7A6B8A&sideLabels=7A6B8A&dates=7A6B8A" height="165" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne0k1r4&layout=compact&title_color=c9a0dc&text_color=7a6b8a&bg_color=0d0d1a&border_color=2d1b4e&hide_border=false" height="165" />
+  </marquee>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
 <img src="./img/mid_archive.png" width="488" />
 <br/><br/>
 <!-- BLOG_RSS_START -->
@@ -104,7 +122,7 @@
   <h2 align="center" style="font-family: 'Caveat', cursive; color: #c9a0dc;"><b>Visit Counter</b> <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="icon" height="45" width="45" style="vertical-align: middle;" /></h2>
   <p align="center">
     <a href="https://github.com/ne0k1r4">
-      <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=1547&align=center&scale=1.5&pixelated=1&darkmode=auto" />
+      <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=500&align=center&scale=1.5&pixelated=1&darkmode=auto" />
     </a>
   </p>
 </div>
