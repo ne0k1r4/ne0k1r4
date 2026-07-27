@@ -49,20 +49,20 @@
 
   <br/><br/>
 
-  <!-- ANIMATED MARQUEE ROW 2 (RIGHT) -->
+  <!-- ANIMATED MARQUEE ROW 2 (RIGHT - LOGOS ONLY) -->
   <marquee behavior="scroll" direction="right" scrollamount="5">
-    <img src="https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/C%2B%2B-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Rust-0d0d1a?style=for-the-badge&logo=rust&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Arch_Linux-0d0d1a?style=for-the-badge&logo=archlinux&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/GNU_Bash-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Wireshark-0d0d1a?style=for-the-badge&logo=wireshark&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Burp_Suite-0d0d1a?style=for-the-badge&logo=burpsuite&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Metasploit-0d0d1a?style=for-the-badge&logo=metasploit&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Neovim-0d0d1a?style=for-the-badge&logo=neovim&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=c9a0dc&labelColor=2d1b4e" />
-    <img src="https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=c9a0dc&labelColor=2d1b4e" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=python&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=rust&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=archlinux&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=docker&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=wireshark&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=burpsuite&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=metasploit&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=neovim&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=git&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=github&logoColor=c9a0dc" />
   </marquee>
 </div>
 
