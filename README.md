@@ -100,11 +100,11 @@
       <img src="./img/mid_banner.png" width="420" />
       <br/><br/>
       <div style="border: 2px solid #2d1b4e; border-radius: 14px; padding: 16px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.35);">
-        <p style="margin: 0; color: #c9a0dc; font-style: italic; font-size: 14px; line-height: 1.6;">
-          “People with evil intent can do evil things without lying.<br/>And not all liars are evil.”
+        <p style="margin: 0; color: #c9a0dc; font-size: 15px; line-height: 1.6;">
+          “𝕻𝖊𝖔𝖕𝖑𝖊 𝖜𝖎𝖙𝖍 𝖊𝖛𝖎𝖑 𝖎𝖓𝖙𝖊𝖓𝖙 𝖈𝖆𝖓 𝖉𝖔 𝖊𝖛𝖎𝖑 𝖙𝖍𝖎𝖓𝖌𝖘 𝖜𝖎𝖙𝖍𝖔𝖚𝖙 𝖑𝖞𝖎𝖓𝖌.<br/>𝕬𝖓𝖉 𝖓𝖔𝖙 𝖆𝖑𝖑 𝖑𝖎𝖆𝖗𝖘 𝖆𝖗𝖊 𝖊𝖛𝖎𝖑.”
         </p>
         <p style="margin: 10px 0 0 0; text-align: right; color: #7a6b8a; font-size: 13px;">
-          — <b>Elaina</b> &nbsp;<i>(Wandering Witch)</i>
+          — <b>𝕰𝖑𝖆𝖎𝖓𝖆</b> &nbsp;<i>(𝖂𝖆𝖓𝖉𝖊𝖗𝖎𝖓𝖌 𝖂𝖎𝖙𝖈𝖍)</i>
         </p>
       </div>
     </td>
