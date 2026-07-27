@@ -31,12 +31,25 @@
 
 <!-- TECH STACK & ARSENAL -->
 <div align="center">
-  <p style="font-family: 'Caveat', cursive; font-size: 22px; color: #c9a0dc; margin-bottom: 12px;">
-    <b>⚡ Tech Stack & Security Arsenal</b>
+  <p style="font-family: 'Caveat', cursive; font-size: 24px; color: #c9a0dc; margin-bottom: 14px;">
+    <b>⚡ Tech Stack & Security Arsenal ⚡</b>
   </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,rust,c,bash,linux,arch,docker,git,github,vscode,vim&theme=dark" />
-  </a>
+
+  <!-- ANIMATED MARQUEE ROW 1 -->
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,cpp,rust,c,bash,linux,arch,docker,git,github,vscode,vim,obsidian,neovim,htop&theme=dark" />
+    </a>
+  </marquee>
+
+  <br/><br/>
+
+  <!-- ANIMATED MARQUEE ROW 2 (REVERSE) -->
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,c,cpp,rust,docker,git,vim,vscode,github,htop,neovim,obsidian&theme=dark" />
+    </a>
+  </marquee>
 </div>
 
 <br/>
