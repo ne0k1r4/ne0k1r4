@@ -29,13 +29,13 @@
 <hr/>
 <br/>
 
-<!-- TECH STACK & ARSENAL -->
+<!-- GOTHIC TECH STACK & ARSENAL -->
 <div align="center">
-  <p style="font-family: 'Caveat', cursive; font-size: 24px; color: #c9a0dc; margin-bottom: 14px;">
-    <b>⚡ Tech Stack & Security Arsenal ⚡</b>
+  <p style="font-family: 'Caveat', cursive; font-size: 26px; color: #c9a0dc; margin-bottom: 14px; letter-spacing: 1px;">
+    <b>⛓️ 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐 & 𝖂𝖊𝖆𝖕𝖔𝖓𝖗𝖞 ⛓️</b>
   </p>
 
-  <!-- ANIMATED MARQUEE ROW 1 -->
+  <!-- ANIMATED MARQUEE ROW -->
   <marquee behavior="scroll" direction="left" scrollamount="5">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,cpp,rust,c,bash,linux,arch,docker,git,github,vscode,vim,obsidian,neovim,htop&theme=dark" />
@@ -44,30 +44,19 @@
 
   <br/><br/>
 
-  <!-- ANIMATED MARQUEE ROW 2 (REVERSE) -->
-  <marquee behavior="scroll" direction="right" scrollamount="5">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,c,cpp,rust,docker,git,vim,vscode,github,htop,neovim,obsidian&theme=dark" />
-    </a>
-  </marquee>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- ANIMATED LIVE GITHUB STATS -->
-<div align="center">
-  <p style="font-family: 'Caveat', cursive; font-size: 22px; color: #c9a0dc; margin-bottom: 12px;">
-    <b>📊 GitHub Activity & Live Stats</b>
+  <!-- GOTHIC DARK BADGES GRID -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/C%2B%2B-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/Rust-0d0d1a?style=for-the-badge&logo=rust&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/Arch_Linux-0d0d1a?style=for-the-badge&logo=archlinux&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/GNU_Bash-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/Wireshark-0d0d1a?style=for-the-badge&logo=wireshark&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/Burp_Suite-0d0d1a?style=for-the-badge&logo=burpsuite&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/Metasploit-0d0d1a?style=for-the-badge&logo=metasploit&logoColor=c9a0dc" />
+    <img src="https://img.shields.io/badge/Neovim-0d0d1a?style=for-the-badge&logo=neovim&logoColor=c9a0dc" />
   </p>
-  <marquee behavior="scroll" direction="left" scrollamount="4">
-    <img src="https://github-readme-stats.vercel.app/api?username=ne0k1r4&show_icons=true&title_color=c9a0dc&text_color=7a6b8a&bg_color=0d0d1a&border_color=2d1b4e&icon_color=c9a0dc&hide_border=false" height="165" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ne0k1r4&theme=dark&background=0D0D1A&border=2D1B4E&stroke=C9A0DC&ring=C9A0DC&fire=C9A0DC&currStreakNum=C9A0DC&sideNums=C9A0DC&currStreakLabel=7A6B8A&sideLabels=7A6B8A&dates=7A6B8A" height="165" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne0k1r4&layout=compact&title_color=c9a0dc&text_color=7a6b8a&bg_color=0d0d1a&border_color=2d1b4e&hide_border=false" height="165" />
-  </marquee>
 </div>
 
 <br/>
@@ -122,7 +111,7 @@
   <h2 align="center" style="font-family: 'Caveat', cursive; color: #c9a0dc;"><b>Visit Counter</b> <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="icon" height="45" width="45" style="vertical-align: middle;" /></h2>
   <p align="center">
     <a href="https://github.com/ne0k1r4">
-      <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=500&align=center&scale=1.5&pixelated=1&darkmode=auto" />
+      <img align="center" width="550" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&align=center&scale=2.5&pixelated=1&darkmode=auto" />
     </a>
   </p>
 </div>
