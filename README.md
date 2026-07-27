@@ -40,7 +40,7 @@
     <b>⛓️ 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐 & 𝖂𝖊𝖆𝖕𝖔𝖓𝖗𝖞 ⛓️</b>
   </p>
 
-  <!-- ANIMATED MARQUEE ROW -->
+  <!-- ANIMATED MARQUEE ROW 1 (LEFT) -->
   <marquee behavior="scroll" direction="left" scrollamount="5">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,cpp,rust,c,bash,linux,arch,docker,git,github,vscode,vim,obsidian,neovim,htop&theme=dark" />
@@ -49,8 +49,8 @@
 
   <br/><br/>
 
-  <!-- GOTHIC DARK BADGES GRID -->
-  <p align="center">
+  <!-- ANIMATED MARQUEE ROW 2 (RIGHT) -->
+  <marquee behavior="scroll" direction="right" scrollamount="5">
     <img src="https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=c9a0dc" />
     <img src="https://img.shields.io/badge/C%2B%2B-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=c9a0dc" />
     <img src="https://img.shields.io/badge/Rust-0d0d1a?style=for-the-badge&logo=rust&logoColor=c9a0dc" />
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Burp_Suite-0d0d1a?style=for-the-badge&logo=burpsuite&logoColor=c9a0dc" />
     <img src="https://img.shields.io/badge/Metasploit-0d0d1a?style=for-the-badge&logo=metasploit&logoColor=c9a0dc" />
     <img src="https://img.shields.io/badge/Neovim-0d0d1a?style=for-the-badge&logo=neovim&logoColor=c9a0dc" />
-  </p>
+  </marquee>
 </div>
 
 <br/>
