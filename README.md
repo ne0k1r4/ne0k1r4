@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0d2e,100:0d0d1a&height=200&section=header&text=ne0k1r4%20%E2%9C%A8&fontSize=50&fontColor=c9a0dc&animation=twinkling&fontAlignY=32&desc=security%20researcher%20%2F%2F%20builder%20%2F%2F%20night%20owl&descSize=16&descAlignY=55&descColor=7a6b8a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0d2e,100:0d0d1a&height=220&section=header&text=ne0k1r4%20%E2%9C%A8&fontSize=50&fontColor=c9a0dc&animation=twinkling&fontAlignY=38&desc=security%20researcher%20%2F%2F%20builder%20%2F%2F%20night%20owl&descSize=16&descAlignY=62&descColor=7a6b8a" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=600&lines=Welcome+to+my+comfort+zone...;studying+at+3am+again...;the+terminal+is+my+comfort+zone;building+tools+in+the+dark;arch+linux+%2B+a+cup+of+tea" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=600&lines=Welcome+to+my+comfort+zone...;studying+at+3am+again...;the+terminal+is+my+comfort+zone;building+tools+in+the+dark;arch+linux+%2B+a+cup+of+tea;curious+mind+%7C+relentless+learner" />
 </div>
 
 <br/>
@@ -20,10 +20,43 @@
       <p>☕ &nbsp; <b>routine</b> &middot; studying at 3 AM with lofi beats & tea</p>
     </td>
     <td width="40%" align="right" valign="top">
-      <img src="./img/top_profile.png" width="300" style="border-radius: 12px; border: 2px solid #2d1b4e;" />
+      <img src="./img/top_profile.png" width="300" style="border-radius: 12px; border: 2px solid #2d1b4e; box-shadow: 0 4px 20px rgba(45, 27, 78, 0.4);" />
     </td>
   </tr>
 </table>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- TECH STACK & ARSENAL -->
+<div align="center">
+  <p style="font-family: 'Caveat', cursive; font-size: 22px; color: #c9a0dc; margin-bottom: 12px;">
+    <b>⚡ Tech Stack & Security Arsenal</b>
+  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,rust,c,bash,linux,arch,docker,git,github,vscode,vim&theme=dark" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- LIVE GITHUB STATS -->
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ne0k1r4&show_icons=true&title_color=c9a0dc&text_color=7a6b8a&bg_color=0d0d1a&border_color=2d1b4e&icon_color=c9a0dc&hide_border=false" height="165" />
+      </td>
+      <td width="15"></td>
+      <td valign="top" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ne0k1r4&theme=dark&background=0D0D1A&border=2D1B4E&stroke=C9A0DC&ring=C9A0DC&fire=C9A0DC&currStreakNum=C9A0DC&sideNums=C9A0DC&currStreakLabel=7A6B8A&sideLabels=7A6B8A&dates=7A6B8A" height="165" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 <hr/>
@@ -83,7 +116,7 @@
       </div>
     </td>
     <td width="40%" align="right" valign="top">
-      <img src="./img/mid_profile.png" width="260" style="border-radius: 12px; border: 2px solid #2d1b4e;" />
+      <img src="./img/mid_profile.png" width="260" style="border-radius: 12px; border: 2px solid #2d1b4e; box-shadow: 0 4px 20px rgba(45, 27, 78, 0.4);" />
     </td>
   </tr>
 </table>
