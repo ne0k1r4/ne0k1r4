@@ -104,8 +104,6 @@
       <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto" />
     </a>
   </p>
-  <br/>
-  <img src="https://64.media.tumblr.com/07f4de24029cebb84073a181cafe7b0a/78be68c3582c106c-c6/s2048x3072/54bf59f48c2ec50a924f2b23ed3739ede3411cb6.jpg" alt="artwork" width="100%" style="border-radius: 12px; border: 2px solid #2d1b4e;" />
 </div>
 
 <br/>
