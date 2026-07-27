@@ -77,14 +77,17 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="middle">
+    <td width="60%" valign="top">
       <img src="./img/mid_banner.png" width="440" />
       <br/><br/>
-      <p align="left">
-        <i>“People with evil intent can do evil things without lying.<br/>And not all liars are evil.”</i><br/>
-        — <b>Elaina</b>
-      </p>
-
+      <div style="border: 2px solid #2d1b4e; border-radius: 12px; padding: 14px; background: #0d0d1a; max-width: 440px; box-shadow: 0 4px 20px rgba(45, 27, 78, 0.4);">
+        <p style="margin: 0; color: #c9a0dc; font-style: italic; font-size: 14px;">
+          “People with evil intent can do evil things without lying.<br/>And not all liars are evil.”
+        </p>
+        <p style="margin: 8px 0 0 0; text-align: right; color: #7a6b8a; font-size: 13px;">
+          — <b>Elaina</b>
+        </p>
+      </div>
     </td>
     <td width="40%" align="right" valign="top">
       <img src="./img/mid_profile.png" width="260" style="border-radius: 12px; border: 2px solid #2d1b4e; box-shadow: 0 4px 20px rgba(45, 27, 78, 0.4);" />
@@ -101,7 +104,7 @@
   <h2 align="center" style="font-family: 'Caveat', cursive; color: #c9a0dc;"><b>Visit Counter</b> <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="icon" height="45" width="45" style="vertical-align: middle;" /></h2>
   <p align="center">
     <a href="https://github.com/ne0k1r4">
-      <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=1500&align=center&scale=1.5&pixelated=1&darkmode=auto" />
+      <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=1547&align=center&scale=1.5&pixelated=1&darkmode=auto" />
     </a>
   </p>
 </div>
