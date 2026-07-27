@@ -43,25 +43,6 @@
 <hr/>
 <br/>
 
-<!-- LIVE GITHUB STATS -->
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ne0k1r4&show_icons=true&title_color=c9a0dc&text_color=7a6b8a&bg_color=0d0d1a&border_color=2d1b4e&icon_color=c9a0dc&hide_border=false" height="165" />
-      </td>
-      <td width="15"></td>
-      <td valign="top" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ne0k1r4&theme=dark&background=0D0D1A&border=2D1B4E&stroke=C9A0DC&ring=C9A0DC&fire=C9A0DC&currStreakNum=C9A0DC&sideNums=C9A0DC&currStreakLabel=7A6B8A&sideLabels=7A6B8A&dates=7A6B8A" height="165" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
 <img src="./img/mid_archive.png" width="488" />
 <br/><br/>
 <!-- BLOG_RSS_START -->
@@ -90,30 +71,7 @@
         <i>“People with evil intent can do evil things without lying.<br/>And not all liars are evil.”</i><br/>
         — <b>Elaina</b>
       </p>
-      <br/>
-      <div style="border: 2px solid #2d1b4e; border-radius: 12px; padding: 12px; background: #0d0d1a; max-width: 440px;">
-        <p style="font-family: 'Caveat', cursive; font-size: 20px; color: #c9a0dc; margin: 0 0 10px 0;">
-          <b>🎵 3AM Coding Soundtrack</b>
-        </p>
-        <table width="100%" border="0" cellpadding="2" cellspacing="0" style="color: #7a6b8a; font-size: 13px;">
-          <tr>
-            <td>🎧 &nbsp;<i>Renai Circulation</i></td>
-            <td align="right">3:14</td>
-          </tr>
-          <tr>
-            <td>🎧 &nbsp;<i>Wandering Witch Elaina Theme</i></td>
-            <td align="right">2:45</td>
-          </tr>
-          <tr>
-            <td>🎧 &nbsp;<i>Lilium (Elfen Lied OP)</i></td>
-            <td align="right">3:08</td>
-          </tr>
-          <tr>
-            <td>🎧 &nbsp;<i>Fly Me to the Moon (Evangelion ED)</i></td>
-            <td align="right">3:52</td>
-          </tr>
-        </table>
-      </div>
+
     </td>
     <td width="40%" align="right" valign="top">
       <img src="./img/mid_profile.png" width="260" style="border-radius: 12px; border: 2px solid #2d1b4e; box-shadow: 0 4px 20px rgba(45, 27, 78, 0.4);" />
