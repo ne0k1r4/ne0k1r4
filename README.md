@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0d2e,80:2d1b4e,100:0d0d1a&height=220&section=header&text=ne0k1r4%20%E2%9C%A8&fontSize=50&fontColor=c9a0dc&animation=twinkling&fontAlignY=38&desc=security%20researcher%20%2F%2F%20ctf%20player%20%2F%2F%20night%20owl&descSize=16&descAlignY=62&descColor=7a6b8a" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0d2e,80:2d1b4e,100:0d0d1a&height=220&section=header&text=ne0k1r4%20%E2%9A%94%EF%B8%8F&fontSize=50&fontColor=c9a0dc&animation=twinkling&fontAlignY=38&desc=%E2%A4%B8%20security%20researcher%20%2F%2F%20ctf%20hunter%20%2F%2F%20gothic%20night%20owl%20%E2%A4%B8&descSize=16&descAlignY=62&descColor=7a6b8a" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=650&lines=Welcome+to+my+comfort+zone...;studying+at+3am+again...;the+terminal+is+my+sanctuary;building+security+tools+in+the+dark;arch+linux+%2B+hyprland+%2B+lofi;curious+mind+%7C+relentless+learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=680&lines=%E2%A4%B8+Welcome+to+my+dark+sanctuary...;%E2%9A%94%EF%B8%8F+Security+Researcher+%2F%2F+CTF+Hunter;%F0%9F%A6%87+3+AM+terminal+ricing+%26+lofi+beats...;%E2%9A%A1+Reverse+engineering+in+the+shadows...;%F0%9F%94%AE+Arch+Linux+%2B+Hyprland+%2B+Tea...;%E2%9B%93%EF%B8%8F+Curious+mind+%7C+Relentless+learner" />
 </div>
 
 <br/>
@@ -19,9 +19,9 @@
       <div style="border: 2px solid #2d1b4e; border-radius: 14px; padding: 18px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.35);">
         <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">🌸 &nbsp; <b>alias</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">Light</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">ne0k1r4</span> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">Kira</span></p>
         <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">🗺️ &nbsp; <b>location</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">India</span></p>
-        <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">💻 &nbsp; <b>craft</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">Security Researcher</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">CTF Player</span></p>
+        <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">⚔️ &nbsp; <b>craft</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">Security Researcher</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">CTF Hunter</span></p>
         <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">❄️ &nbsp; <b>environment</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">Arch Linux + Hyprland</span></p>
-        <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">☕ &nbsp; <b>routine</b> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">studying at 3 AM with lofi beats & tea</span></p>
+        <p style="margin: 6px 0; color: #c9a0dc; font-size: 14px;">☕ &nbsp; <b>routine</b> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">gothic 3 AM coding with lofi & tea</span></p>
       </div>
     </td>
     <td width="42%" align="right" valign="top">
