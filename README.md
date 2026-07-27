@@ -101,7 +101,7 @@
   <h2 align="center" style="font-family: 'Caveat', cursive; color: #c9a0dc;"><b>Visit Counter</b> <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="icon" height="45" width="45" style="vertical-align: middle;" /></h2>
   <p align="center">
     <a href="https://github.com/ne0k1r4">
-      <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto" />
+      <img align="center" width="400" src="https://count.getloli.com/@ne0k1r4?name=ne0k1r4&theme=love-and-deepspace&padding=5&offset=1500&align=center&scale=1.5&pixelated=1&darkmode=auto" />
     </a>
   </p>
 </div>
