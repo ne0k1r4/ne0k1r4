@@ -32,55 +32,7 @@
 
 <br/>
 <hr/>
-<br/>
 
-<!-- EXPANDED GOTHIC TECH STACK & ARSENAL -->
-<div align="center">
-  <p style="font-family: 'Caveat', cursive; font-size: 26px; color: #c9a0dc; margin-bottom: 16px; letter-spacing: 1px;">
-    <b>⛓️ 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐 & 𝖂𝖊𝖆𝖕𝖔𝖓𝖗𝖞 ⛓️</b>
-  </p>
-
-  <!-- ANIMATED MARQUEE ROW 1 (LANGUAGES & CORE) -->
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,go,asm,bash,js,ts,html,css&theme=dark" height="55" />
-    </a>
-  </marquee>
-
-  <br/><br/>
-
-  <!-- ANIMATED MARQUEE ROW 2 (SECURITY & ENVIRONMENT) -->
-  <marquee behavior="scroll" direction="right" scrollamount="5">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,vscode,vim,neovim,obsidian,htop&theme=dark" height="55" />
-    </a>
-  </marquee>
-
-  <br/><br/>
-
-  <!-- LOGO-ONLY BADGES GRID (FULL ARSENAL) -->
-  <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 16px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.4);">
-    <p align="center" style="margin: 0;">
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=python&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=c&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=rust&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=go&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=archlinux&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=linux&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=docker&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=wireshark&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=burpsuite&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=metasploit&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=neovim&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=git&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=github&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=obsidian&logoColor=c9a0dc" height="38" />
-      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=visualstudiocode&logoColor=c9a0dc" height="38" />
-    </p>
-  </div>
-</div>
 
 <br/>
 <hr/>
