@@ -1,3 +1,6 @@
+<!-- GOOGLE FONTS IMPORT -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@400;600;700&display=swap">
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0d2e,80:2d1b4e,100:0d0d1a&height=220&section=header&text=ne0k1r4%20%E2%9A%94%EF%B8%8F&fontSize=50&fontColor=c9a0dc&animation=twinkling&fontAlignY=38&desc=%E2%A4%B8%20security%20researcher%20%2F%2F%20ctf%20hunter%20%2F%2F%20gothic%20night%20owl%20%E2%A4%B8&descSize=16&descAlignY=62&descColor=7a6b8a" width="100%"/>
 </div>
@@ -16,12 +19,13 @@
     <td width="58%" valign="top" style="padding-right: 15px;">
       <img src="./img/top_about.png" width="380" />
       <br/><br/>
-      <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 18px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.4);">
-        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">🌸 &nbsp; <b>alias</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff; font-weight: bold;">Light</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">ne0k1r4</span> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">Kira</span></p>
-        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">🗺️ &nbsp; <b>location</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">India</span></p>
-        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">⚔️ &nbsp; <b>craft</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff; font-weight: bold;">Security Researcher</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">CTF Hunter</span></p>
-        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">❄️ &nbsp; <b>environment</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">Arch Linux + Hyprland</span></p>
-        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">☕ &nbsp; <b>routine</b> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">gothic 3 AM coding with lofi & tea</span></p>
+      <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', 'JetBrains Mono', sans-serif;">
+        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">🌸 &nbsp; <b style="font-family: 'Cinzel', serif; color: #e9d5ff;">ALIAS</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff; font-weight: bold;">Light</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">ne0k1r4</span> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">Kira</span></p>
+        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">🗺️ &nbsp; <b style="font-family: 'Cinzel', serif; color: #e9d5ff;">LOCATION</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">India</span></p>
+        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">⚔️ &nbsp; <b style="font-family: 'Cinzel', serif; color: #e9d5ff;">CRAFT</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff; font-weight: bold;">Security Researcher</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">CTF Hunter</span></p>
+        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">🔮 &nbsp; <b style="font-family: 'Cinzel', serif; color: #e9d5ff;">FOCUS</b> &nbsp;&middot;&nbsp; <span style="color: #e9d5ff;">Reverse Engineering</span> &nbsp;&middot;&nbsp; <span style="color: #c9a0dc;">OSINT</span> &nbsp;&middot;&nbsp; <span style="color: #a78bfa;">Pwn / BinExp</span></p>
+        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">❄️ &nbsp; <b style="font-family: 'Cinzel', serif; color: #e9d5ff;">SYSTEM</b> &nbsp;&middot;&nbsp; <span style="color: #ffffff;">Arch Linux + Hyprland</span></p>
+        <p style="margin: 8px 0; color: #c9a0dc; font-size: 14px;">☕ &nbsp; <b style="font-family: 'Cinzel', serif; color: #e9d5ff;">ROUTINE</b> &nbsp;&middot;&nbsp; <span style="color: #7a6b8a;">gothic 3 AM coding, lo-fi beats & green tea</span></p>
       </div>
     </td>
     <td width="42%" align="right" valign="top">
@@ -40,11 +44,11 @@
     <td width="58%" valign="top" style="padding-right: 15px;">
       <img src="./img/mid_banner.png" width="420" />
       <br/><br/>
-      <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 18px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.4);">
-        <p style="margin: 0; color: #c9a0dc; font-size: 15px; line-height: 1.6;">
+      <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Cinzel', serif;">
+        <p style="margin: 0; color: #c9a0dc; font-size: 15px; line-height: 1.6; letter-spacing: 0.5px;">
           “𝕻𝖊𝖔𝖕𝖑𝖊 𝖜𝖎𝖙𝖍 𝖊𝖛𝖎𝖑 𝖎𝖓𝖙𝖊𝖓𝖙 𝖈𝖆𝖓 𝖉𝖔 𝖊𝖛𝖎𝖑 𝖙𝖍𝖎𝖓𝖌𝖘 𝖜𝖎𝖙𝖍𝖔𝖚𝖙 𝖑𝖞𝖎𝖓𝖌.<br/>𝕬𝖓𝖉 𝖓𝖔𝖙 𝖆𝖑𝖑 𝖑𝖎𝖆𝖗𝖘 𝖆𝖗𝖊 𝖊𝖛𝖎𝖑.”
         </p>
-        <p style="margin: 12px 0 0 0; text-align: right; color: #7a6b8a; font-size: 13px;">
+        <p style="margin: 12px 0 0 0; text-align: right; color: #7a6b8a; font-size: 13px; font-family: 'Outfit', sans-serif;">
           — <b>𝕰𝖑𝖆𝖎𝖓𝖆</b> &nbsp;<i>(𝖂𝖆𝖓𝖉𝖊𝖗𝖎𝖓𝖌 𝖂𝖎𝖙𝖈𝖍)</i>
         </p>
       </div>
@@ -66,7 +70,7 @@
 <br/>
 
 <!-- BLOG_RSS_START -->
-<div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 18px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.4);">
+<div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', 'JetBrains Mono', sans-serif;">
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It</a></p>
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup</a></p>
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/142/dawgctf-2026-locksmith-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Locksmith - OSINT Writeup</a></p>
@@ -86,7 +90,7 @@
 
 <!-- ENLARGED MOE VISIT COUNTER -->
 <div align="center">
-  <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; max-width: 600px; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.4);">
+  <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; max-width: 600px; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', sans-serif;">
     <h2 align="center" style="font-family: 'Caveat', cursive; color: #c9a0dc; margin-top: 0;"><b>Visit Counter</b> <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="icon" height="42" width="42" style="vertical-align: middle;" /></h2>
     <a href="https://github.com/ne0k1r4">
       <img align="center" width="550" src="https://count.moeyy.cn/get/@ne0k1r4?theme=love-and-deepspace&padding=5" />
