@@ -30,7 +30,9 @@
   </tr>
 </table>
 
-
+<br/>
+<hr/>
+<br/>
 
 <!-- QUOTE & MID ARTWORK CARD -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
