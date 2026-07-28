@@ -31,12 +31,65 @@
 </table>
 
 <br/>
-<hr/>
 
+<!-- RED TEAM & GOTHIC TECH ARSENAL -->
+<div align="center">
+  <p style="font-family: 'Caveat', cursive; font-size: 26px; color: #c9a0dc; margin-bottom: 16px; letter-spacing: 1px;">
+    <b>⛓️ 𝕽𝖊𝖉 𝕿𝖊𝖆𝖒 & 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑 ⛓️</b>
+  </p>
 
-<br/>
-<hr/>
-<br/>
+  <!-- ANIMATED MARQUEE ROW 1 (SKILLICONS - LEFT) -->
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,go,bash,powershell,linux,arch,kali,docker,git,github,vscode,vim,neovim&theme=dark" height="55" />
+    </a>
+  </marquee>
+
+  <br/><br/>
+
+  <!-- ANIMATED MARQUEE ROW 2 (RED TEAM & OFFENSIVE BADGES - RIGHT) -->
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=kalilinux&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=metasploit&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=burpsuite&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=wireshark&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=python&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=rust&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=go&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=archlinux&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=docker&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=powershell&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=neovim&logoColor=c9a0dc" height="38" />
+    <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=git&logoColor=c9a0dc" height="38" />
+  </marquee>
+
+  <br/><br/>
+
+  <!-- LOGO-ONLY RED TEAM GLASSMORPHISM GRID CARD -->
+  <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 18px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.4);">
+    <p align="center" style="margin: 0;">
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=kalilinux&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=metasploit&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=burpsuite&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=wireshark&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=python&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=c&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=rust&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=go&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=powershell&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=archlinux&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=linux&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=docker&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=neovim&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=git&logoColor=c9a0dc" height="40" />
+      <img src="https://img.shields.io/badge/-0d0d1a?style=for-the-badge&logo=github&logoColor=c9a0dc" height="40" />
+    </p>
+  </div>
+</div>
 
 <!-- QUOTE & MID ARTWORK CARD -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
