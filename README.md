@@ -21,13 +21,7 @@
 <hr/>
 <br/>
 
-<!-- 01 — WHOAMI & PERSONA CARD -->
-<div align="center">
-  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
-    <b>01 &mdash; 𝖂𝖄𝕺𝕬𝕸𝕴 & 𝕴𝕹𝕿𝕰𝕷</b>
-  </p>
-</div>
-
+<!-- ABOUT ME & PERSONA CARD -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="58%" valign="top" style="padding-right: 15px;">
@@ -52,13 +46,7 @@
 <hr/>
 <br/>
 
-<!-- 02 — QUOTE & PHILOSOPHY -->
-<div align="center">
-  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
-    <b>02 &mdash; 𝕻𝕽𝕴𝕹𝕮𝕴𝕻𝕷𝕰𝕾 & 𝕼𝖀𝕺𝕿𝕰</b>
-  </p>
-</div>
-
+<!-- QUOTE & MID ARTWORK CARD -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="58%" valign="top" style="padding-right: 15px;">
@@ -83,13 +71,7 @@
 <hr/>
 <br/>
 
-<!-- 03 — CTF WRITEUPS ARCHIVE -->
-<div align="center">
-  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
-    <b>03 &mdash; 𝕬𝕽𝕮𝕳𝕴𝖁𝕰 & 𝖂𝕽𝕴𝕿𝕰𝖀𝕻𝕾</b>
-  </p>
-</div>
-
+<!-- CTF WRITEUPS ARCHIVE -->
 <div align="left">
   <img src="./img/mid_archive.png" width="480" />
 </div>
@@ -97,6 +79,9 @@
 
 <!-- BLOG_RSS_START -->
 <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', 'JetBrains Mono', sans-serif;">
+  <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/166/sekaictf-2026-survey-miscellaneous-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">SEKAICTF 2026 - Survey - Miscellaneous Writeup</a></p>
+  <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/165/sekaictf-2026-pp-farming-2-blockchain-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">SEKAICTF 2026 - PP Farming 2 - Blockchain Writeup</a></p>
+  <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/164/sekaictf-2026-outer-stellar-blockchain-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">SEKAICTF 2026 - Outer Stellar - Blockchain Writeup</a></p>
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It</a></p>
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup</a></p>
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/142/dawgctf-2026-locksmith-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Locksmith - OSINT Writeup</a></p>
@@ -104,9 +89,6 @@
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/143/dawgctf-2026-owo-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - owo? - OSINT Writeup</a></p>
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - The Lookout's Legend - OSINT Writeup</a></p>
   <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup</a></p>
-  <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - I Hate Physics! - Cryptography Writeup</a></p>
-  <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup</a></p>
-  <p style="margin: 7px 0;">🦋 &nbsp;<a href="https://ctf5.vercel.app/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">TexSAW 2026 - You Snoze You Loze - OSINT Writeup</a></p>
 </div>
 <!-- BLOG_RSS_END -->
 
@@ -114,13 +96,7 @@
 <hr/>
 <br/>
 
-<!-- 04 — TELEMETRY & VISITOR METRICS -->
-<div align="center">
-  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
-    <b>04 &mdash; 𝕿𝕰𝕷𝕰𝕸𝕰𝕿𝕽𝖄 & 𝖁𝕴𝕾𝕴𝕿𝕺𝕽𝕾</b>
-  </p>
-</div>
-
+<!-- ENLARGED MOE VISIT COUNTER -->
 <div align="center">
   <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; max-width: 600px; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', sans-serif;">
     <h2 align="center" style="font-family: 'Caveat', cursive; color: #c9a0dc; margin-top: 0;"><b>Visit Counter</b> <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="icon" height="42" width="42" style="vertical-align: middle;" /></h2>
