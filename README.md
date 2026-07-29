@@ -3,7 +3,15 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0d2e,80:2d1b4e,100:0d0d1a&height=220&section=header&text=ne0k1r4%20%E2%9A%94%EF%B8%8F&fontSize=50&fontColor=c9a0dc&animation=twinkling&fontAlignY=38&desc=%E2%A4%B8%20security%20researcher%20%2F%2F%20ctf%20hunter%20%2F%2F%20gothic%20night%20owl%20%E2%A4%B8&descSize=16&descAlignY=62&descColor=7a6b8a" width="100%"/>
+
+  <br/>
+
+  <a href="http://sujalinfo.in/"><img src="https://img.shields.io/badge/WEBSITE-0d0d1a?style=flat-square&logoColor=c9a0dc"/></a>
+  <a href="mailto:neok1ra@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-0d0d1a?style=flat-square&logo=protonmail&logoColor=c9a0dc"/></a>
+  <a href="https://github.com/ne0k1r4"><img src="https://img.shields.io/badge/GITHUB-0d0d1a?style=flat-square&logo=github&logoColor=c9a0dc"/></a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=680&lines=%E2%A4%B8+Welcome+to+my+dark+sanctuary...;%E2%9A%94%EF%B8%8F+Security+Researcher+%2F%2F+CTF+Hunter;%F0%9F%A6%87+3+AM+terminal+ricing+%26+lofi+beats...;%E2%9A%A1+Reverse+engineering+in+the+shadows...;%F0%9F%94%AE+Arch+Linux+%2B+Hyprland+%2B+Tea...;%E2%9B%93%EF%B8%8F+Curious+mind+%7C+Relentless+learner" />
@@ -13,7 +21,13 @@
 <hr/>
 <br/>
 
-<!-- ABOUT ME & PERSONA CARD -->
+<!-- 01 — WHOAMI & PERSONA CARD -->
+<div align="center">
+  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
+    <b>01 &mdash; 𝖂𝖄𝕺𝕬𝕸𝕴 & 𝕴𝕹𝕿𝕰𝕷</b>
+  </p>
+</div>
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="58%" valign="top" style="padding-right: 15px;">
@@ -38,7 +52,13 @@
 <hr/>
 <br/>
 
-<!-- QUOTE & MID ARTWORK CARD -->
+<!-- 02 — QUOTE & PHILOSOPHY -->
+<div align="center">
+  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
+    <b>02 &mdash; 𝕻𝕽𝕴𝕹𝕮𝕴𝕻𝕷𝕰𝕾 & 𝕼𝖀𝕺𝕿𝕰</b>
+  </p>
+</div>
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="58%" valign="top" style="padding-right: 15px;">
@@ -63,7 +83,13 @@
 <hr/>
 <br/>
 
-<!-- ARCHIVE & WRITEUPS -->
+<!-- 03 — CTF WRITEUPS ARCHIVE -->
+<div align="center">
+  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
+    <b>03 &mdash; 𝕬𝕽𝕮𝕳𝕴𝖁𝕰 & 𝖂𝕽𝕴𝕿𝕰𝖀𝕻𝕾</b>
+  </p>
+</div>
+
 <div align="left">
   <img src="./img/mid_archive.png" width="480" />
 </div>
@@ -88,7 +114,13 @@
 <hr/>
 <br/>
 
-<!-- ENLARGED MOE VISIT COUNTER -->
+<!-- 04 — TELEMETRY & VISITOR METRICS -->
+<div align="center">
+  <p style="font-family: 'Cinzel', serif; font-size: 20px; color: #c9a0dc; letter-spacing: 2px; margin-bottom: 14px;">
+    <b>04 &mdash; 𝕿𝕰𝕷𝕰𝕸𝕰𝕿𝕽𝖄 & 𝖁𝕴𝕾𝕴𝕿𝕺𝕽𝕾</b>
+  </p>
+</div>
+
 <div align="center">
   <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; max-width: 600px; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', sans-serif;">
     <h2 align="center" style="font-family: 'Caveat', cursive; color: #c9a0dc; margin-top: 0;"><b>Visit Counter</b> <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="icon" height="42" width="42" style="vertical-align: middle;" /></h2>
@@ -102,15 +134,7 @@
 <hr/>
 <br/>
 
-<!-- FOOTER BADGES & BANNER -->
+<!-- FOOTER BANNER -->
 <div align="center">
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/%23-2d1b4e?style=for-the-badge"/></a> 
-    <a href="http://sujalinfo.in/"><img src="https://img.shields.io/badge/WEBSITE-2d1b4e?style=for-the-badge&logoColor=c9a0dc"/></a> 
-    <a href="mailto:neok1ra@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-2d1b4e?style=for-the-badge&logo=protonmail&logoColor=c9a0dc"/></a> 
-    <a href="https://github.com/ne0k1r4"><img src="https://img.shields.io/badge/GITHUB-2d1b4e?style=for-the-badge&logo=github&logoColor=c9a0dc"/></a> 
-    <a href="#"><img src="https://img.shields.io/badge/%23-2d1b4e?style=for-the-badge"/></a>
-  </p>
-  <br/>
   <img src="./img/bottom_banner.png" width="100%" />
 </div>
