@@ -81,17 +81,24 @@
 
 <!-- BLOG_RSS_START -->
 <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 20px; background: #0d0d1a; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', 'JetBrains Mono', sans-serif;">
-  <marquee behavior="scroll" direction="up" scrollamount="2" height="240" onmouseover="this.stop();" onmouseout="this.start();">
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/166/sekaictf-2026-survey-miscellaneous-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">SEKAICTF 2026 - Survey - Miscellaneous Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/165/sekaictf-2026-pp-farming-2-blockchain-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">SEKAICTF 2026 - PP Farming 2 - Blockchain Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/164/sekaictf-2026-outer-stellar-blockchain-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">SEKAICTF 2026 - Outer Stellar - Blockchain Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/142/dawgctf-2026-locksmith-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Locksmith - OSINT Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Computer Repair III - OSINT Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/143/dawgctf-2026-owo-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - owo? - OSINT Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - The Lookout's Legend - OSINT Writeup</a></p>
-    <p style="margin: 9px 0;"><img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" height="18" style="vertical-align: middle;" /> &nbsp;<a href="https://ctf5.vercel.app/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup</a></p>
+  <!-- MARQUEE STREAM 1 (LEFT) -->
+  <marquee behavior="scroll" direction="left" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+    <a href="https://ctf5.vercel.app/posts/166/sekaictf-2026-survey-miscellaneous-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">🦋 SEKAICTF 2026 - Survey</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/165/sekaictf-2026-pp-farming-2-blockchain-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">🦋 SEKAICTF 2026 - PP Farming 2</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/164/sekaictf-2026-outer-stellar-blockchain-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">🦋 SEKAICTF 2026 - Outer Stellar</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">🦋 Vibe-Coded Proxy Site Vulnerability</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/" style="text-decoration: none; color: #c9a0dc; font-weight: bold;">🦋 DawgCTF 2026 - Machine Learnding</a>
+  </marquee>
+
+  <br/><br/>
+
+  <!-- MARQUEE STREAM 2 (RIGHT) -->
+  <marquee behavior="scroll" direction="right" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+    <a href="https://ctf5.vercel.app/posts/142/dawgctf-2026-locksmith-osint-writeup/" style="text-decoration: none; color: #e9d5ff; font-weight: bold;">⚡ DawgCTF 2026 - Locksmith</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/" style="text-decoration: none; color: #e9d5ff; font-weight: bold;">⚡ DawgCTF 2026 - Computer Repair III</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/143/dawgctf-2026-owo-osint-writeup/" style="text-decoration: none; color: #e9d5ff; font-weight: bold;">⚡ DawgCTF 2026 - owo?</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/" style="text-decoration: none; color: #e9d5ff; font-weight: bold;">⚡ DawgCTF 2026 - The Lookout's Legend</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+    <a href="https://ctf5.vercel.app/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/" style="text-decoration: none; color: #e9d5ff; font-weight: bold;">⚡ DawgCTF 2026 - Plane Spotting Pt. 1</a>
   </marquee>
 </div>
 <!-- BLOG_RSS_END -->
