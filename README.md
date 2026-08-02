@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@400;600;700&display=swap">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0d2e,80:2d1b4e,100:0d0d1a&height=220&section=header&text=ne0k1r4%20%E2%9A%94%EF%B8%8F&fontSize=50&fontColor=c9a0dc&animation=twinkling&fontAlignY=38&desc=%E2%A4%B8%20security%20researcher%20%2F%2F%20ctf%20hunter%20%2F%2F%20gothic%20night%20owl%20%E2%A4%B8&descSize=16&descAlignY=62&descColor=7a6b8a" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,25:1a0d2e,60:3b0764,85:2d1b4e,100:0d0d1a&height=240&section=header&text=%F0%9D%95%9F%F0%9D%95%960%F0%9D%95%9C1%F0%9D%95%A34%20%E2%9A%94%EF%B8%8F%20%F0%9F%A6%87&fontSize=52&fontColor=e9d5ff&animation=twinkling&fontAlignY=36&desc=%E2%9C%A7%20%F0%9D%95%AE%F0%9D%95%96%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%A3%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%A9%20%F0%9D%95%AF%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%96%F0%9D%95%91%F0%9D%95%A3%F0%9D%95%9A%F0%9D%95%9A%F0%9D%95%9D%20%2F%2F%20%F0%9D%95%8A%F0%9D%95%9A%F0%9D%95%9A%F0%9D%95%9A%F0%9D%95%A4%20%2F%2F%20%F0%9D%95%82%F0%9D%95%9A%F0%9D%95%9A%F0%9D%95%9A%F0%9D%95%9D%F0%9D%95%A4%20%E2%9C%A7&descSize=15&descAlignY=62&descColor=c9a0dc" width="100%"/>
 
   <br/>
 
