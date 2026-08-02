@@ -125,19 +125,7 @@
 <hr/>
 <br/>
 
-<!-- COMPACT LANGUAGES BREAKDOWN -->
-<div align="center">
-  <div style="border: 2px solid #2d1b4e; border-radius: 16px; padding: 18px; background: #0d0d1a; max-width: 650px; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45); font-family: 'Outfit', sans-serif;">
-    <p style="font-family: 'Cinzel', serif; font-size: 16px; color: #c9a0dc; margin-top: 0; margin-bottom: 12px; letter-spacing: 1px;">
-      <b>⚡ REPOSITORY LANGUAGES & CODE STATS</b>
-    </p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne0k1r4&layout=compact&theme=synthwave&bg_color=0d0d1a&title_color=c9a0dc&text_color=ffffff&border_color=2d1b4e&hide_border=true" width="92%" />
-  </div>
-</div>
 
-<br/>
-<hr/>
-<br/>
 
 <!-- ENLARGED MOE VISIT COUNTER -->
 <div align="center">
