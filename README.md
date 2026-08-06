@@ -10,6 +10,7 @@
   <a href="http://sujalinfo.in/"><img src="https://img.shields.io/badge/WEBSITE-0d0d1a?style=for-the-badge&logoColor=c9a0dc&labelColor=2d1b4e"/></a> &nbsp;
   <a href="mailto:neok1ra@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-0d0d1a?style=for-the-badge&logo=protonmail&logoColor=c9a0dc&labelColor=2d1b4e"/></a> &nbsp;
   <a href="https://github.com/ne0k1r4"><img src="https://img.shields.io/badge/GITHUB-0d0d1a?style=for-the-badge&logo=github&logoColor=c9a0dc&labelColor=2d1b4e"/></a> &nbsp;
+  <a href="https://discord.com/users/1240146115962077246"><img src="https://img.shields.io/badge/DISCORD-0d0d1a?style=for-the-badge&logo=discord&logoColor=c9a0dc&labelColor=2d1b4e"/></a> &nbsp;
   <a href="https://ctf5.vercel.app/"><img src="https://img.shields.io/badge/CTF_BLOG-0d0d1a?style=for-the-badge&logoColor=c9a0dc&labelColor=2d1b4e"/></a>
 </div>
 
@@ -17,6 +18,15 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=680&lines=%E2%A4%B8+Welcome+to+my+dark+sanctuary...;%E2%9A%94%EF%B8%8F+Security+Researcher+%2F%2F+CTF+Hunter;%F0%9F%A6%87+3+AM+terminal+ricing+%26+lofi+beats...;%E2%9A%A1+Reverse+engineering+in+the+shadows...;%F0%9F%94%AE+Arch+Linux+%2B+Hyprland+%2B+Tea...;%E2%9B%93%EF%B8%8F+Curious+mind+%7C+Relentless+learner" />
+</div>
+
+<br/>
+
+<!-- DISCORD LIVE PRESENCE -->
+<div align="center">
+  <a href="https://discord.com/users/1240146115962077246">
+    <img src="https://lanyard.kyrie25.dev/api/1240146115962077246?animatedDecoration=true&showBanner=animated" alt="Discord Presence" style="border-radius: 16px; border: 2px solid #2d1b4e; box-shadow: 0 8px 32px rgba(45, 27, 78, 0.45);" />
+  </a>
 </div>
 
 <br/>
